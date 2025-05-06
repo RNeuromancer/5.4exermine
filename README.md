@@ -1,13 +1,5 @@
-# SpeedScore
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/uqcUQdQA)
+[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=19356767)
+# Lab 5b
 
-This repository contains the code for SpeedScore, a single page web application that supports the sport of speedgolf by allowing users to
-
--   log and analyze their speedgolf rounds
--   share and discuss their speedgolf rounds with other speedgolfers
--   add detailed golf, running, and topographical data on speedgolf-friendly to SpeedScore's course database
-
-SpeedScore is implemented in HTML, CSS, and JavaScript. It presently stores all app data locally in `localStorage`. In the future, it will also store app data in a cloud-based database.
-
-To run SpeedScore from Visual Studio Code, type
-`npm run start`
-in the terminal.
+This repository contains the code for SpeedScore, a single page web application. In this lab you will perform a modern code review of the "Delete Round" functionality developed in Exploration 5.4. 
